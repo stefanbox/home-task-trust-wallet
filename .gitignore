@@ -1,0 +1,22 @@
+# Logs
+*.log
+
+# Operating system / editor temporary files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Test artifacts
+test_results_*/
+
+# ADB UI dumps / helpers generated while debugging
+*dump*.xml
+*dropdown*.xml
+input_test.xml
+list.xml
+
+# Temporary files
+*.tmp
+*.swp
+

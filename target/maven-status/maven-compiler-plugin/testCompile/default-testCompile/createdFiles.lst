@@ -1,0 +1,7 @@
+utils\TestListener.class
+tests\BaseTest.class
+tests\ButtonsTest.class
+tests\SwitchesTest.class
+tests\LoginTest.class
+tests\CryptoTest.class
+tests\ListTest.class

@@ -1,0 +1,5 @@
+pages\BasePage.class
+config\DriverManager.class
+pages\LoginPage.class
+pages\TestPage.class
+config\AppConfig.class
